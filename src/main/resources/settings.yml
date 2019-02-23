@@ -1,0 +1,10 @@
+# Configure in which world you would like to have a custom amount of hearts.
+world-name: world_nether
+
+# Set amount of hearts in specified world.
+# e.g. 1 = half of a single heart, 20 = full health bar, 40 = 2 health bars.
+hearts: 10
+
+# Set default amount of hearts given to a player in the other worlds.
+# e.g. 1 = half of a single heart, 20 = full health bar, 40 = 2 health bars.
+default: 20
